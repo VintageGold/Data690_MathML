@@ -8,6 +8,7 @@ A place to ask questions and collaborate with peers
 * * Ex:  Subject Line:  Python Pandas How to query a dataframe
 * In subject line please state when you would like feedback/help by
 * All class members should "watch" the class github page and accept automatic emails
+* <img src="pics/Capture.PNG" width="150">
 * We all have expertise. :-) If you have something something to contribute, please respond to keep the conversation going.
 * 
 
