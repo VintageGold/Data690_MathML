@@ -1,4 +1,4 @@
-<img src="pics/UMBC_Graduate_School.jpg" width="150">
+<img src="pics/UMBC_Graduate_School.jpeg" width="150">
 # Data690_MathML
 A place to ask questions and collaborate with peers
 
