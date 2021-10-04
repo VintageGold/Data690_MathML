@@ -5,7 +5,8 @@ A place to ask questions and collaborate with peers
 
 # Github Rules
 
-* Don’t push to main: Please establish your own branch off of main.
+* Watch the Repo, the button is in the top right corner of this page
+* Don’t push to main: Please establish your own branch off of main
 * When posting an issue, have a descriptive subject line specifying SQL, Python, or another topic
 * In the subject line please state when you would like feedback/help by
 * * Ex:  Subject Line:  Python Pandas (2 days from now): How to query a dataframe?
